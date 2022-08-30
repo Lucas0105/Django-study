@@ -36,7 +36,7 @@ pip list
 - - Excel Viewer
 
 - extention 설정
-- - ctrl + shift + p -> Preferences: Open Settings(JSON)
+- - ctrl + shift + p -> Preferences: Open User Settings(JSON)
 ```
     // Django
     "files.associations": {
