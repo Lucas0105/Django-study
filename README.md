@@ -3,7 +3,8 @@
 - [프로젝트](#프로젝트)
 - [애플리케이션](#애플리케이션)
 
-
+<br>
+    
 ## Django 설치 방법
 
 
@@ -55,6 +56,7 @@ pip list
 pip freeze > requirements.txt
 ```
 
+<br>
 
 ## 프로젝트     
 
@@ -75,6 +77,8 @@ python manage.py runserver
 - urls.py : url과 views를 연결
 - wsgi.py(Web Server Gateway Interface) : 웹 서버와 연결 및 소통, 배포 시에 사용
 - manage.py : 프로젝트를 상호작용하는 커맨드라인 유틸리티
+
+<br>
 
 ## 애플리케이션     
 
