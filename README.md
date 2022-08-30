@@ -84,7 +84,7 @@ python manage.py runserver
 
 ### 애플리케이션 생성 방법
 ```
-python manage.py startapp {애플리케이션 이름}
+python manage.py startapp {애플리케이션 이름(복수형을 권장)}
 ```
 
 ### 애플리케이션 구조
