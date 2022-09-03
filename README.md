@@ -88,7 +88,7 @@ python manage.py startapp {애플리케이션 이름(복수형을 권장)}
 ```
 
 ### 애플리케이션 구조
-- adming : 관리자용 페이지 설정
+- admin.py : 관리자용 페이지 설정
 - apps.py : app의 정보
 - models.py : 데이터에 관한 처리를 하는 곳
 - test.py : 테스트 코드를 작성하는 곳
